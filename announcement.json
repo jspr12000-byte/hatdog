@@ -1,11 +1,11 @@
 {
   "kill_switch": {
-    "enabled": false,
-    "badge": "Service paused",
+    "enabled": true,
+    "badge": "App Disabled",
     "title": "Kairo 2K is temporarily unavailable",
-    "message": "We are performing maintenance. Please try again later.",
+    "message": "Ninakaw ni R-A ang tool na ito.",
     "button_text": "Exit app",
-    "link_text": "Join our Discord",
+    "link_text": "Join our Telegram Channel",
     "link_url": "https://discord.gg/your-invite",
     "media_type": "none",
     "media_url": "",
