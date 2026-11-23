@@ -1,7 +1,43 @@
 {
-  "disabled": false,
-  "force_exit": false,
-  "title": "Announcement",
-  "message": "Thanks for using KAIRO 2K Free.\nNew update coming soon.",
-  "button": "OK"
+  "kill_switch": {
+    "enabled": false,
+    "badge": "Service paused",
+    "title": "Kairo 2K is temporarily unavailable",
+    "message": "We are performing maintenance. Please try again later.",
+    "button_text": "Exit app",
+    "link_text": "Join our Discord",
+    "link_url": "https://discord.gg/your-invite",
+    "media_type": "none",
+    "media_url": "",
+    "auto_exit_seconds": 0
+  },
+
+  "force_update": {
+    "min_version_code": 1,
+    "title": "A new version is available",
+    "message": "This version is no longer supported. Please update to continue.",
+    "button_text": "Update now",
+    "link_url": "https://example.com/download"
+  },
+
+  "announcement": {
+    "enabled": true,
+    "id": "2026-11-23-welcome",
+    "badge": "New",
+    "title": "Welcome to Kairo 2K",
+    "message": "Thanks for using the tool. Here is what is new in this release.",
+    "bullets": [
+      "Faster cyberface porting",
+      "Cleaner results screen",
+      "Bug fixes and stability"
+    ],
+    "media_type": "gif",
+    "media_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/promo.gif",
+    "media_aspect": 1.78,
+    "button_text": "Got it",
+    "link_text": "Watch the tutorial",
+    "link_url": "https://youtube.com/",
+    "dismissible": true,
+    "show_once": true
+  }
 }
