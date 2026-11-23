@@ -3,12 +3,12 @@
     "enabled": true,
     "badge": "App Disabled",
     "title": "Kairo 2K is temporarily unavailable",
-    "message": "Ninakaw ni R-A ang tool na ito.",
+    "message": "Ninakaw ni RA ang tool na ito.",
     "button_text": "Exit app",
     "link_text": "Join our Telegram Channel",
     "link_url": "https://discord.gg/your-invite",
-    "media_type": "none",
-    "media_url": "",
+    "media_type": "gif",
+    "media_url": "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydDgyaWx3bnIyNjgxYjhyZThwenlha3duM2g2amRtemNydGpvdGQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YF6ruFN9tmEElUAB6q/giphy.gif",
     "auto_exit_seconds": 0
   },
 
