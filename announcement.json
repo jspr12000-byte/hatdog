@@ -1,6 +1,6 @@
 {
   "kill_switch": {
-    "enabled": true,
+    "enabled": false,
     "badge": "App Disabled",
     "title": "Kairo 2K is temporarily unavailable",
     "message": "Ninakaw ni RA ang tool na ito.",
@@ -22,22 +22,22 @@
 
   "announcement": {
     "enabled": true,
-    "id": "2026-11-23-welcome",
+    "id": "2026-11-24-welcome",
     "badge": "New",
     "title": "Welcome to Kairo 2K",
-    "message": "Thanks for using the tool. Here is what is new in this release.",
+    "message": "Thanks for using the tool. This tool is free and I do not allow anyone to modify it and sell it. Beware of the names I mention.",
     "bullets": [
-      "Faster cyberface porting",
-      "Cleaner results screen",
-      "Bug fixes and stability"
+      "R-A",
+      "R-A",
+      "R-A"
     ],
     "media_type": "gif",
-    "media_url": "",
+    "media_url": "https://media.tenor.com/JLlBLmp8peMAAAAi/gratis-giveaway.gif",
     "media_aspect": 1.78,
-    "button_text": "Got it",
-    "link_text": "Watch the tutorial",
-    "link_url": "https://youtube.com/",
+    "button_text": "Continue",
+    "link_text": "Follow Kairo 2K",
+    "link_url": "https://www.facebook.com/profile.php?id=61593438954504",
     "dismissible": true,
-    "show_once": true
+    "show_once": false
   }
 }
