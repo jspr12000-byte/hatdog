@@ -23,8 +23,8 @@
   "announcement": {
     "enabled": true,
     "id": "2026-11-24-welcome",
-    "badge": "New",
-    "title": "Welcome to Kairo 2K",
+    "badge": "Welcome",
+    "title": "Kairo Tool V1",
     "message": "Thanks for using the tool. This tool is free and I do not allow anyone to modify it and sell it. Beware of the names I mention.",
     "bullets": [
       "R-A",
