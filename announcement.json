@@ -1,12 +1,12 @@
 {
   "kill_switch": {
-    "enabled": false,
-    "badge": "App Disabled",
-    "title": "Kairo 2K is temporarily unavailable",
-    "message": "Ninakaw ni RA ang tool na ito.",
+    "enabled": true,
+    "badge": "Tool Disabled",
+    "title": "Kairo 2K is temporarily unavailable due to Ray Lewis",
+    "message": "Ungrateful motherfucker, walang ibang ginawa kundi manira.",
     "button_text": "Exit app",
-    "link_text": "Join our Telegram Channel",
-    "link_url": "https://discord.gg/your-invite",
+    "link_text": "Contact Kairo 2K",
+    "link_url": "https://www.facebook.com/profile.php?id=61593438954504",
     "media_type": "gif",
     "media_url": "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydDgyaWx3bnIyNjgxYjhyZThwenlha3duM2g2amRtemNydGpvdGQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YF6ruFN9tmEElUAB6q/giphy.gif",
     "auto_exit_seconds": 0
