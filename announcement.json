@@ -1,6 +1,6 @@
 {
   "kill_switch": {
-    "enabled": true,
+    "enabled": false,
     "badge": "Tool Disabled",
     "title": "Kairo 2K is temporarily unavailable due to Ray Lewis",
     "message": "Ungrateful motherfucker, walang ibang ginawa kundi manira.",
@@ -25,7 +25,7 @@
     "id": "2026-11-24-welcome",
     "badge": "Welcome",
     "title": "Kairo V1",
-    "message": "Kung nababasa mo man ito Ray Lewis, 🖕",
+    "message": "Fuck Ray Lewis",
     "bullets": [
       "",
       "",
